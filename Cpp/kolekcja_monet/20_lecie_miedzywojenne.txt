@@ -1,0 +1,28 @@
+2 zl Polonia, 1932, 7
+2 zl Polonia, 1933, 17
+2 zl Polonia, 1933, 13
+2 zl Polonia, 1932, 33
+2 zl Pilsudski, 1934, 24
+2 zl Pilsudski, 1936, 78
+2 zl Zaglowiec, 1936, 40
+2 zl Zniwiarka, 1925, 250
+5 zl Polonia, 1933, 140
+5 zl Polonia, 1933, 40
+5 zl Polonia, 1933, 77
+5 zl Polonia, 1933, 30
+5 zl Polonia zzm, 1932, 360
+5 zl Polonia bzm, 1932, 30
+5 zl Polonia bzm, 1932, 41
+5 zl Polonia bzm, 1934, 27
+5 zl Nike, 1928, 1500
+5 zl Nike, 1928, 999
+5 zl Sztandar, 1930, 700
+5 zl Pilsudski strzelecki, 1934, 320
+5 zl Pilsudski, 1934, 80
+10 zl Polonia, 1933, 60
+10 zl Polonia, 1932, 55
+10 zl Polonia, 1933, 66
+10 zl Traugutt, 1933, 300
+10 zl Sobieski, 1933, 350
+10 zl Chrobry (Au), 1925, 1100
+20 zl Chrobry (Au), 1925, 2400
